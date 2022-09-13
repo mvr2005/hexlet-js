@@ -1,3 +1,7 @@
 import _ from "lodash";
-console.log("Hello, Hexlet!");
-console.log(_.last(['one', 'two']));
+const item = 0;
+if (item < 0) {
+  console.log("yes");
+} else {
+  console.log();
+}
